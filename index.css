@@ -1,0 +1,18 @@
+body{
+    background-color: darkolivegreen;
+}
+
+header{
+    color: aliceblue;
+}
+
+strong{
+    color: chartreuse;
+}
+
+.pave{
+    border-style: groove;
+    border-width: 20px;
+    border-color: chartreuse;
+    border-bottom-right-radius: 200px;
+}
